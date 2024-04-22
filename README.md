@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">📚 Student (CS) at Air University Islamabad, Multan Campus.<br>👨‍💻 Front-end Developer | C++/JavaScript Programmer | UI/UX Designer.<br>🚀 Passionate about creating user-centric web experiences that blend design and code seamlessly.<br>📫 Let's connect! Reach me out at [Email: raohassan1132@gmail.com] or find me on [Lined-in: Muhammad Hassan, Instagram: muhammadhassan5925].</h5>
+<h5 align="left">📚 Student (CS) at Air University Islamabad, Multan Campus.<br>👨‍💻 Front-end Developer | C++/JavaScript Programmer | UI/UX Designer.<br>🚀 Passionate about creating user-centric web experiences that blend design and code seamlessly.<br>📫 Let's connect! Reach me out at [Email: raohassan1132@gmail.com] or find me on [LinKed-in: Muhammad Hassan, Instagram: muhammadhassan5925].</h5>
 
 ###
 
