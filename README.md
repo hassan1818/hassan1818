@@ -1,4 +1,4 @@
-```md
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -105,4 +105,4 @@ I'm Muhammad Hassan — a MERN Stack & Next.js Developer passionate about buildi
 🌐 GitHub: github.com/hassan1818
 
 </div>
-```
+
