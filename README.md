@@ -32,17 +32,17 @@
 role: Next.js Developer @ Devaicon
 education: BS Computer Science — Air University, Multan (Final Semester)
 focus: Full-stack development, clean architecture, high-performance UI
-currently_exploring: CI/CD workflows, cloud deployment, backend architecture
+currently_learning: AI Engineering — Python, ML/DL, LLM APIs, RAG, agent frameworks
 open_to: Internships, freelance work, collaboration
-location: Multan, Punjab, Pakistan 🇵🇰
+location: Lahore, Punjab, Pakistan 🇵🇰
 ```
 
-I build full-stack applications with **React.js, Next.js, Node.js, Express.js, MongoDB & MySQL** — from REST APIs and auth systems to admin dashboards and pixel-perfect responsive UI. I care about clean code, performance, and interfaces that feel as good as they look.
+I build full-stack applications with **React.js, Next.js, Node.js, Express.js, MongoDB & MySQL** — from REST APIs and auth systems to admin dashboards and pixel-perfect responsive UI. I'm now expanding into **AI Engineering**, and I care about clean code, performance, and interfaces that feel as good as they look.
 
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hassan1818&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hassan1818&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&cache_seconds=86400" width="100%"/>
 
 </td>
 </tr>
@@ -78,7 +78,7 @@ I build full-stack applications with **React.js, Next.js, Node.js, Express.js, M
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan1818&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan1818&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan1818&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&cache_seconds=86400" width="35%"/>
 </div>
 
 <br/>
