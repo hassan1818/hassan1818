@@ -30,7 +30,7 @@
 
 ```yaml
 role: Next.js Developer @ Devaicon
-education: BS Computer Science — Air University, Lahore (Final Semester)
+education: BS Computer Science — Air University
 focus: Full-stack development, clean architecture, high-performance UI
 currently_learning: AI Engineering — Python, ML/DL, LLM APIs, RAG, agent frameworks
 open_to: Internships, freelance work, collaboration
