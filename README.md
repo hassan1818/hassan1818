@@ -1,116 +1,359 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=220&section=header&text=Muhammad%20Hassan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20%7C%20Next.js%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<h3 align="center">Software Engineer | Next.js Developer | MERN Stack Developer</h3>
 
-<br/>
+<p align="center">
+  Building scalable, responsive, and production-ready web applications.
+</p>
 
-<a href="https://www.linkedin.com/in/muhammad-hassan-a65a38285">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:hassandesigns4@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/hassan1818">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://portfolio-mu-eight-zrl3p5ctoe.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-09B29D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/muhammad-hassan-a65a38285">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hassandesigns4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<br/><br/>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Building+scalable+full-stack+web+apps;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+production-ready+products" />
+## 👨‍💻 About Me
 
-</div>
+I'm a **Software Engineer and Next.js Developer** with around one year of professional experience building full-stack web applications.
 
-<br/>
+I specialize in developing modern, responsive, scalable, and user-friendly applications using the JavaScript ecosystem.
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+### What I work with
 
-### 👨‍💻 About Me
+- ⚛️ React.js & Next.js
+- 🟨 JavaScript & TypeScript
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB & MySQL
+- 🔌 REST APIs
+- 🔐 Authentication & Authorization
+- 🎨 Responsive UI Development
+- 🔧 Git & GitHub
 
-```yaml
-role: Next.js Developer @ Devaicon
-education: BS Computer Science — Air University
-focus: Full-stack development, clean architecture, high-performance UI
-currently_learning: AI Engineering — Python, ML/DL, LLM APIs, RAG, agent frameworks
-open_to: Internships, freelance work, collaboration
-location: Lahore, Punjab, Pakistan 🇵🇰
-```
+I enjoy turning ideas and business requirements into **clean, maintainable, high-performance software**.
 
-I build full-stack applications with **React.js, Next.js, Node.js, Express.js, MongoDB & MySQL** — from REST APIs and auth systems to admin dashboards and pixel-perfect responsive UI. I'm now expanding into **AI Engineering**, and I care about clean code, performance, and interfaces that feel as good as they look.
+I'm also expanding my expertise into **AI Engineering**, currently learning and exploring:
 
-</td>
-<td width="40%" valign="top" align="center">
+- 🐍 Python
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 💬 LLM APIs
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🧩 AI Agents
+- 🚀 Production AI Applications
 
-<img src="https://github-readme-stats.vercel.app/api?username=hassan1818&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&cache_seconds=86400" width="100%"/>
+### Current Role
 
-</td>
-</tr>
-</table>
+💼 **Next.js Developer @ Devaicon**
 
-<br/>
+### Education
+
+🎓 **BS Computer Science — Air University**
+
+### Location
+
+📍 **Pakistan**
+
+---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### Frontend
 
-**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" alt="Frontend Technologies" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,bootstrap,materialui" />
+**HTML5 • CSS3 • JavaScript • TypeScript • React.js • Next.js • Tailwind CSS • Redux Toolkit**
 
-<br/><br/>
+### Backend & Database
 
-**Backend & Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend Technologies" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+**Node.js • Express.js • REST APIs • MongoDB • MySQL • JWT Authentication**
 
-<br/><br/>
+### Tools & Platforms
 
-**Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,postman" alt="Tools and Platforms" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,docker,vscode" />
+**Git • GitHub • VS Code • Vercel • Figma • Postman**
 
-</div>
+### AI Engineering — Currently Learning
 
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI Technologies" />
+</p>
 
-## 📊 GitHub Activity
+**Python • Machine Learning • Deep Learning • LLMs • RAG • AI APIs • AI Agents**
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan1818&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan1818&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&cache_seconds=86400" width="35%"/>
-</div>
+---
 
-<br/>
+# 🚀 Featured Projects
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan1818&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff" width="100%"/>
-</div>
+## 🏨 Hostel Management System
 
-<br/>
+A complete full-stack **Hostel Management System** developed as my Final Year Project.
 
-## 🏆 Trophies
+The platform manages hostel operations through role-based dashboards and centralized workflows for tenants, wardens, finance managers, administrators, and other stakeholders.
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hassan1818&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
-</div>
+### Key Features
 
-<br/>
+- 🔐 Role-based authentication and authorization
+- 👨‍💼 Admin dashboard
+- 🏢 Hostel Warden dashboard
+- 👤 Tenant management
+- 🛏️ Room allocation and management
+- 📝 Room requests
+- 💰 Fee voucher generation
+- 💳 Payment management
+- 📊 Finance management
+- 📢 Complaint management
+- 🔔 Notifications
+- 🔌 REST API architecture
+- 📱 Responsive user interface
 
-## 📫 Let's Connect
+### Technologies
 
-<div align="center">
+**Next.js • React.js • Node.js • Express.js • MySQL • REST APIs • JWT • Redux Toolkit**
 
-I'm always open to interesting conversations, freelance work, or collaboration on full-stack projects.
+🔗 **Live:**  
+https://hostel-application-chi.vercel.app/
 
-<a href="mailto:hassandesigns4@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hello-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/muhammad-hassan-a65a38285"><img src="https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/hassan1818"><img src="https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+💻 **GitHub:**  
+https://github.com/hassan1818/Hostel-Application
 
-<br/><br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
+## 🌐 Learning Souls
 
-<img src="https://komarev.com/ghpvc/?username=hassan1818&color=6C63FF&style=flat&label=Profile+Views" />
+A production web platform built with modern web technologies, focusing on responsive UI, performance, and user experience.
 
-</div>
+### Key Features
+
+- Responsive and modern interface
+- Next.js application architecture
+- Reusable React components
+- API integration
+- Payment integration
+- Performance optimization
+- Production deployment
+
+### Technologies
+
+**Next.js • React.js • TypeScript • Stripe • Tailwind CSS**
+
+🔗 **Live:**  
+https://learningsouls.org/
+
+> 🔒 Source code is private due to company policy.
+
+---
+
+## 💻 Devaicon
+
+A production company website developed using modern frontend technologies with a focus on responsive design, performance, and professional UI.
+
+### Key Features
+
+- Responsive web design
+- Reusable UI components
+- Next.js architecture
+- Performance optimization
+- Professional UI implementation
+- Production deployment
+
+### Technologies
+
+**Next.js • React.js • TypeScript • Tailwind CSS**
+
+🔗 **Live:**  
+https://devaicon.com/
+
+> 🔒 Source code is private due to company policy.
+
+---
+
+## 🤖 Tech&.AI
+
+A professional website developed for an AI-focused organization using modern frontend technologies.
+
+### Key Features
+
+- Modern responsive interface
+- Component-based architecture
+- Next.js development
+- Performance-focused implementation
+- Professional UI/UX
+- Production deployment
+
+### Technologies
+
+**Next.js • React.js • TypeScript • Tailwind CSS**
+
+🔗 **Live:**  
+https://techand.ai/
+
+> 🔒 Source code is private due to company policy.
+
+---
+
+# 💼 Professional Experience
+
+## Next.js Developer — Devaicon
+
+Working on production web applications using modern frontend and full-stack technologies.
+
+### Responsibilities
+
+- Build responsive and reusable UI components
+- Develop applications using Next.js and React.js
+- Integrate REST APIs
+- Implement authentication and application features
+- Optimize application performance
+- Improve user experience
+- Collaborate with developers and designers
+- Debug and resolve frontend issues
+- Maintain Git/GitHub workflows
+- Follow modern software development practices
+
+### Core Technologies
+
+**Next.js • React.js • TypeScript • JavaScript • Tailwind CSS • REST APIs • Git**
+
+---
+
+# 🧠 What I Like Building
+
+| Area | Focus |
+|---|---|
+| ⚡ Web Applications | High-performance and scalable applications |
+| 🎨 Frontend | Responsive and modern user interfaces |
+| 🔐 Security | Authentication and role-based authorization |
+| 🔌 APIs | RESTful APIs and third-party integrations |
+| 📊 Dashboards | Admin and business management systems |
+| 🗄️ Databases | MongoDB and MySQL applications |
+| 🤖 AI | AI-powered software applications |
+| 🧠 LLMs | LLM APIs, RAG and AI Agents |
+| 🚀 Full Stack | End-to-end production applications |
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hassan1818&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Muhammad Hassan GitHub Statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan1818&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Muhammad Hassan Most Used Languages"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=hassan1818&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+    alt="Muhammad Hassan GitHub Trophies"
+  />
+</p>
+
+---
+
+# 📚 Currently Learning
+
+## 🤖 AI Engineering
+
+I'm expanding my software engineering background into **Artificial Intelligence and Machine Learning**.
+
+Python
+   ↓
+Mathematics & Statistics
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+LLMs
+   ↓
+RAG
+   ↓
+AI Agents
+   ↓
+Production AI Applications
+
+# 🎯 Career Interests
+
+I'm interested in opportunities related to:
+
+- Software Engineering
+- Full-Stack Development
+- Frontend Engineering
+- React.js Development
+- Next.js Development
+- MERN Stack Development
+- Backend Development
+- AI Engineering
+- Machine Learning
+- AI-powered Software Products
+
+---
+
+# 📫 Let's Connect
+
+I'm always open to:
+
+- 💼 Software engineering opportunities
+- 🚀 Full-stack projects
+- 🤖 AI/ML projects
+- 💻 Freelance work
+- 🤝 Technical collaboration
+- 💡 Interesting product ideas
+
+<p align="center">
+
+<a href="https://portfolio-mu-eight-zrl3p5ctoe.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-09B29D?style=for-the-badge" alt="Portfolio" />
+</a>
+
+<a href="https://linkedin.com/in/muhammad-hassan-a65a38285">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/hassan1818">
+  <img src="https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge" alt="GitHub" />
+</a>
+
+<a href="mailto:hassandesigns4@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge" alt="Email" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <strong>Building today. Learning continuously. Engineering for what's next. 🚀</strong>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+</p>
