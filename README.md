@@ -59,7 +59,7 @@ I'm also expanding my expertise into **AI Engineering**, currently learning and 
 
 ### Location
 
-📍 **Pakistan**
+📍 **Lahore, Pakistan**
 
 ---
 
@@ -127,10 +127,10 @@ The platform manages hostel operations through role-based dashboards and central
 
 **Next.js • React.js • Node.js • Express.js • MySQL • REST APIs • JWT • Redux Toolkit**
 
-🔗 **Live:**  
+🔗 **Live:**
 https://hostel-application-chi.vercel.app/
 
-💻 **GitHub:**  
+💻 **GitHub:**
 https://github.com/hassan1818/Hostel-Application
 
 ---
@@ -153,7 +153,7 @@ A production web platform built with modern web technologies, focusing on respon
 
 **Next.js • React.js • TypeScript • Stripe • Tailwind CSS**
 
-🔗 **Live:**  
+🔗 **Live:**
 https://learningsouls.org/
 
 > 🔒 Source code is private due to company policy.
@@ -177,7 +177,7 @@ A production company website developed using modern frontend technologies with a
 
 **Next.js • React.js • TypeScript • Tailwind CSS**
 
-🔗 **Live:**  
+🔗 **Live:**
 https://devaicon.com/
 
 > 🔒 Source code is private due to company policy.
@@ -201,7 +201,7 @@ A professional website developed for an AI-focused organization using modern fro
 
 **Next.js • React.js • TypeScript • Tailwind CSS**
 
-🔗 **Live:**  
+🔗 **Live:**
 https://techand.ai/
 
 > 🔒 Source code is private due to company policy.
@@ -253,16 +253,35 @@ Working on production web applications using modern frontend and full-stack tech
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=hassan1818&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=hassan1818&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
     alt="Muhammad Hassan GitHub Statistics"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan1818&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="Muhammad Hassan Most Used Languages"
+    width="35%"
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hassan1818&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph"
+    alt="Muhammad Hassan Contribution Graph"
+    width="100%"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan1818&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Muhammad Hassan Most Used Languages"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan1818&theme=tokyonight&hide_border=true" alt="Muhammad Hassan GitHub Streak" width="70%"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hassan1818/hassan1818/output/github-contribution-grid-snake.svg" alt="Muhammad Hassan Contribution Snake" width="100%"/>
 </p>
 
 ---
@@ -271,7 +290,7 @@ Working on production web applications using modern frontend and full-stack tech
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=hassan1818&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+    src="https://github-profile-trophy.vercel.app/?username=hassan1818&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&cache_seconds=86400"
     alt="Muhammad Hassan GitHub Trophies"
   />
 </p>
